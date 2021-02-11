@@ -36,10 +36,10 @@ Some non-functional opportunities have been planned to as well
 ## Assumptions
     + Project will be developed using WordPress.
     + Testing the website's design will take most of our time resources.
-    + We will get more specific comments of the project and better questions to ask after each meeting with the IABC.
+    + We will get more specific comments on the project and better questions to ask after each meeting with the IABC.
 ## Constraints
     + Limited meetings with the clients.
-    + Limeted cost "9k CDN" provided by the IABC.
+    + Limited cost "9k CDN" provided by the IABC.
     + Not enough information about the visitors of the website.
 
 
